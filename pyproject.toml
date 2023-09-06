@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "django-acdhch-functions"
+version = "0.1.0"
+description = ""
+authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>"]
+readme = "README.md"
+packages = [{include = "django_acdhch_functions"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = ">=4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
