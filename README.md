@@ -20,7 +20,7 @@ urlpatterns =+ [path("", include("django_acdhch_functions.urls")),]
 
 ## Imprint
 
-Provides an imprint route on `/imprint`
+Provides an imprint route on `/imprint`. You have to set a `REDMINE_ID` in `settings`.
 
 ## Matomo
 
