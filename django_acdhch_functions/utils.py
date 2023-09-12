@@ -3,6 +3,7 @@ import requests
 
 from django.conf import settings
 
+
 @functools.cache
 def get_impressum() -> str:
     base_url = getattr(settings, "ACDH_IMPRINT_URL", "https://imprint.acdh.oeaw.ac.at/")

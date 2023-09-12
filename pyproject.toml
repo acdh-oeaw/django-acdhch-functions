@@ -11,6 +11,19 @@ python = "^3.11"
 django = ">=4.1"
 
 
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+djlint = "^1.32.1"
+ruff = "^0.0.288"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.djlint]
+indent=2
+profile="django"
+extension="html"
+blank_line_before_tag="block,if"
+blank_line_after_tag="endif,endblock"
+format_js=false
