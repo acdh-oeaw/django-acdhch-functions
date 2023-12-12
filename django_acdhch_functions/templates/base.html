@@ -1,4 +1,10 @@
 {% extends basetemplate|default:"base.html" %}
+{% load django_acdhch_functions %}
+
+{% block scriptHeader %}
+  {{ super.block }}
+  {% matomo %}
+{% endblock scriptHeader %}
 
 {% block imprint %}
   <div id="wrapper-footer-secondary"
