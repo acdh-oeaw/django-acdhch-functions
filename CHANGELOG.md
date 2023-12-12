@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.1...v0.1.2) (2023-12-12)
+
+
+### Bug Fixes
+
+* add matomo to shipped `base.html` template ([9e8846f](https://github.com/acdh-oeaw/django-acdhch-functions/commit/9e8846f66c35b71ba8b7705cbe21c621763d0e2b))
+
 ## [0.1.1](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.0...v0.1.1) (2023-12-12)
 
 
