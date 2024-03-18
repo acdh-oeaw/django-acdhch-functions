@@ -13,7 +13,7 @@ INSTALLED_APPS += ["django_acdhch_functions"]
 Call the `django_acdhch_functions` views from your `urls.py`:
 
 ```
-urlpatterns =+ [path("", include("django_acdhch_functions.urls")),]
+urlpatterns += [path("", include("django_acdhch_functions.urls")),]
 ```
 
 # Functionality
