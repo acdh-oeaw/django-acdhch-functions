@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.2...v0.1.3) (2024-03-18)
+
+
+### Bug Fixes
+
+* imprint route should point to imprint ([91f93a1](https://github.com/acdh-oeaw/django-acdhch-functions/commit/91f93a1278af91f39f9360c1dd2400f6d83e72ad))
+* typo in readme ([6444d74](https://github.com/acdh-oeaw/django-acdhch-functions/commit/6444d743fa90bc92107bdf1a8a2ab460679b0d37))
+
 ## [0.1.2](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.1...v0.1.2) (2023-12-12)
 
 
