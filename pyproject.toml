@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-acdhch-functions"
-version = "0.1.3"
+version = "0.1.4"
 description = ""
 authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>"]
 readme = "README.md"
