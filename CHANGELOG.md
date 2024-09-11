@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.3...v0.1.4) (2024-09-11)
+
+
+### Bug Fixes
+
+* **matomo:** use correct statement for calling parent block content ([7e5055c](https://github.com/acdh-oeaw/django-acdhch-functions/commit/7e5055c64354ed584ff8b2c4eace8effcb697e9f))
+
 ## [0.1.3](https://github.com/acdh-oeaw/django-acdhch-functions/compare/v0.1.2...v0.1.3) (2024-03-18)
 
 
